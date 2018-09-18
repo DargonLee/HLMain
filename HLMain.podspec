@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'HLMain'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'iOS开发基础框架'
 
 # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'DargonLee' => '2461414445@qq.com' }
-  s.source           = { :git => 'https://DargonLee/HLMain.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/DargonLee/HLMain.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
