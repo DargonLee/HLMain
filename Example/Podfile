@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HLMain_Example' do
+  pod 'HLMain', :path => '../'
+
+  target 'HLMain_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

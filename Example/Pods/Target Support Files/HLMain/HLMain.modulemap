@@ -1,0 +1,6 @@
+framework module HLMain {
+  umbrella header "HLMain-umbrella.h"
+
+  export *
+  module * { export * }
+}

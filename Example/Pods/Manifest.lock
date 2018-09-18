@@ -1,0 +1,16 @@
+PODS:
+  - HLMain (0.1.0)
+
+DEPENDENCIES:
+  - HLMain (from `../`)
+
+EXTERNAL SOURCES:
+  HLMain:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HLMain: d271ae78c14b33896ffc52548a543d813c9b9c10
+
+PODFILE CHECKSUM: 487ea77afd9be4185a4b5bea98600558d5f6a173
+
+COCOAPODS: 1.5.3
